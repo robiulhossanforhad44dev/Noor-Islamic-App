@@ -1,0 +1,6 @@
+{
+  "name": "Noor Islam",
+  "description": "Comprehensive Islamic companion app featuring multilingual onboarding, prayer times, Quran, Qibla compass, and daily Islamic guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
